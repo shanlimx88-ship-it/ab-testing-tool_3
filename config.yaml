@@ -1,0 +1,3 @@
+analysis:
+  segments: ["primary_scenario"]
+  min_segment_size: 30
